@@ -42,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,discord,github,js,linux,mysql,nodejs,py,react,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,discord,github,js,linux,mysql,nodejs,py,react,vscode" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conéctate conmigo🤝</h2></summary>
   </ul>
 </div>
 
